@@ -80,7 +80,7 @@ $user_err = $passw_err =  "";
           <span class="help-block"><?php echo $passw_err;?></span>
         </div>
         <input type="submit" name="login" class="btn btn-primary" value="Login">
-        <a href="register.php" data-ajax="false" class="ui-btn">register</a>
+        <a href="register.php" data-ajax="false" class="ui-btn">Register</a>
           <a href="index.php" data-ajax="false" class="ui-btn ui-btn-b">Cancel</a>
         
         </form>
