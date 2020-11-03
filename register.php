@@ -79,7 +79,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Registasion Page</title>
+    <title>Registation Page</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="jquery.mobile-1.4.5.min.css" />
   	<script src="jquery-1.11.1.min.js"></script>
