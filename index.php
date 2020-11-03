@@ -18,8 +18,8 @@
               <li><a href="#home">Home</a></li>
               <li><a href="#" >About</a></li>
               <li><a href="#" >Contract</a></li>
-              <li><a href="login.php" data-ajax="false">login</a></li>
-              <li><a href="register.php" data-ajax="false">register</a></li>
+              <li><a href="login.php" data-ajax="false">Login</a></li>
+              <li><a href="register.php" data-ajax="false">Register</a></li>
             </ul>
           </div>
           <h1>ATN System</h1>
