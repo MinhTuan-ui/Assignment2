@@ -40,7 +40,7 @@ session_start();
               <li><a href="#home">Home</a></li>
               <li><a href="#" >About</a></li>
               <li><a href="#" >Contract</a></li>
-              <li><a href="logout.php" data-ajax="false">logout</a></li>
+              <li><a href="logout.php" data-ajax="false">Logout</a></li>
             </ul>
           </div>
           <h1>ATN System</h1>
